@@ -10,4 +10,8 @@ public static class MathUtils
         }
         return n <= 1 ? 1 : n * Factorial(n - 1); 
     } 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> af3cd495915075e2786894a85997420590b0bb8b
